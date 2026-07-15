@@ -1,2 +1,2 @@
 # BusyBeaver
-Asael's blog and portfolio website that he updates when he remembers to.
+Asael's portfolio website and blog that he updates when he remembers to.

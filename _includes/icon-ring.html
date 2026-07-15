@@ -1,0 +1,38 @@
+<div class="icon-ring-container d-flex justify-content-center align-items-center position-relative my-5">
+  
+  <div class="central-image-wrapper z-2">
+    <img src="https://images.squarespace-cdn.com/content/v1/5ee52f7d9edc8a7ee635591a/8df50655-6b68-460e-ad6c-5230001b9d5a/240404+-+063944+-+001.jpg" 
+         alt="My Headshot" 
+         class="rounded-circle img-fluid border border-4 border-white shadow" 
+         style="width: 150px; height: 150px; object-fit: cover;">
+  </div>
+
+  <div class="icons-ring position-absolute w-100 h-100 d-flex justify-content-center align-items-center">
+    <div class="ring-icon position-absolute" style="transform: rotate(0deg) translate(130px) rotate(0deg);">
+      <span class="fs-3">🎨</span>
+    </div>
+    <div class="ring-icon position-absolute" style="transform: rotate(90deg) translate(130px) rotate(-90deg);">
+      <span class="fs-3">💻</span>
+    </div>
+    <div class="ring-icon position-absolute" style="transform: rotate(180deg) translate(130px) rotate(-180deg);">
+      <span class="fs-3">✍️</span>
+    </div>
+    <div class="ring-icon position-absolute" style="transform: rotate(270deg) translate(130px) rotate(-270deg);">
+      <span class="fs-3">🚀</span>
+    </div>
+  </div>
+  
+</div>
+
+<style>
+  .icon-ring-container {
+    width: 100%;
+    height: 350px; /* Keeps enough space so icons don't overflow the section container */
+  }
+  .ring-icon {
+    transition: transform 0.3s ease;
+  }
+  .ring-icon:hover {
+    transform: scale(1.2) !important; /* Retains its position while popping out slightly on hover */
+  }
+</style>
