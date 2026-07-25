@@ -2,6 +2,21 @@
 layout: home
 title: Home
 ---
+<!-- <script>
+    function setImg(){
+        var imgURLs = [
+            './assets/images/triplet.png',
+            './assets/images/nature_shot.png',
+        ];
+        ranidx = Math.floor(Math.random()*imgURLs.length);
+        document.getElementById('hero').setAttribute('src',imgURLs[ranidx]);
+    }
+    if (document.addEventListener){
+        window.addEventListener('load', setImg, false);
+    }else if (document.attachEvent){
+        window.attachEvent('onload', setImg);
+    }
+</script> -->
 
 <div class='container mt-4 text-left mb-4 w-75'>
     <p class='fs-4 fw-semibold'>Camarón que se duerme, se lo lleva la corriente.</p>
@@ -10,5 +25,5 @@ title: Home
     </p>
 </div>
 
-[headshot]: https://media.licdn.com/dms/image/v2/D4E03AQEQOS-KO02aMA/profile-displayphoto-crop_800_800/B4EZqKjMW_HMAI-/0/1763261074545?e=1785369600&v=beta&t=AmvkzRqgOUVPbzzfStbXyBOlaA8PG4F1_fzQDaWaI-E
-![Asael Aocsta Headshot][headshot]{: .container .ratio .ratio-1x1 .object-fit-cover .rounded-circle .img-fluid .d-block .mx-auto style='width: 350px;'}
+![Asael Aocsta Headshot](./assets/images/triplet.png){: .container .ratio .ratio-1x1 .object-fit-cover .rounded-circle .img-fluid .d-block .mx-auto style='width: 350px;'}
+<!-- <img id='hero' class='container ratio ratio-1x1 object-fit-cover rounded-circle img-fluid d-block mx-auto' style='width:350px;'> -->
