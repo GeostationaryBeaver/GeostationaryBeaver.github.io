@@ -2,6 +2,7 @@
 layout: articles
 title: Astrodynamics Tutorials
 cover: https://archive.gps.gov/multimedia/images/GPS-III-A.jpg
+date: 2026-07-27
 articles:
   type: brief
 ---

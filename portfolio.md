@@ -12,7 +12,8 @@ As of late July 2026, this page is still in its infancy and is not representativ
   <section class="my-5">
     <header><h2 id="page-layout">Academic and Professional</h2></header>
     <hr>
-    {%- include article-list.html articles=site.projects type='grid' -%}
+    {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
+    {%- include article-list.html articles=sorted_projects type='grid' -%}
   </section>
 
   <section class="my-5">

@@ -2,9 +2,12 @@
 layout: articles
 title: Terrascope
 cover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPNMrYrrDd3xkF2Ow0SF6J7erhTXopgg2QmZmAYxUJ_AUWQ8Xzf52OSk&s=10
+date: 2024-12-04
 articles:
   type: brief
 ---
+
+Cover image credit: [*Terrascope* Homepage](https://terrascope.mit.edu/)
 
 Terrascope description.
 
