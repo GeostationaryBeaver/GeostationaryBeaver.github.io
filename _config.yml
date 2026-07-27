@@ -18,7 +18,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://geostationarybeaver.github.io
 baseurl : # does not include hostname
 title   : Asael Acosta
 description: > # this means to ignore newlines until "Language & timezone"
@@ -48,9 +48,8 @@ author:
   type      : person
   name      : Asael
   url       :
-  avatar    : # path or url of avatar image (square)
+  avatar    : /assets/apple-touch-icon.png # path or url of avatar image (square)
   bio       : MIT AeroAstro '28
-  email     : asael906@mit.edu
   email     : asael906@mit.edu
   linkedin  : asael-acosta
   github    : GeostationaryBeaver
@@ -206,6 +205,7 @@ exclude:
   - /vendor
 
 defaults:
+  #posts
   - scope:
       path: ""
       type: posts
@@ -218,7 +218,13 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
+      # lightbox: true
 
+collections:
+  projects:
+    output: true
+  hobbies:
+    output: true
 
 ## => Plugins
 ##############################

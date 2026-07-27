@@ -25,5 +25,4 @@ title: Home
     </p>
 </div>
 
-![Asael Aocsta Headshot](./assets/images/triplet.png){: .container .ratio .ratio-1x1 .object-fit-cover .rounded-circle .img-fluid .d-block .mx-auto style='width: 350px;'}
-<!-- <img id='hero' class='container ratio ratio-1x1 object-fit-cover rounded-circle img-fluid d-block mx-auto' style='width:350px;'> -->
+![Asael Aocsta Headshot](./assets/images/triplet.png){:.border .border-2 .rounded-circle   .ratio-1x1 .object-fit-cover  .shadow .img-fluid .d-block .mx-auto style='width: 350px;'}
