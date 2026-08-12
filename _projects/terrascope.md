@@ -9,6 +9,8 @@ articles:
 
 Cover image credit: [Terrascope Homepage](https://terrascope.mit.edu/)
 
+Skills: Technical writing, public speaking, systems engineering, interviewing
+
 Terrascope is an MIT first-year learning community dedicated to addressing sustainability issues over the course of a semester. For the class of 2028, our theme was lithium sustainability, contextualized by the increasing demand for "green" technologies. We were sat down at the beginning of the fall, told what our final objective and deliverables were, and were then given total freedom to decide how we'd tackle the prompt.
 
 We spent the first segment of the semester organizing ourselves into different subteams, centered around difference facets of the issue. Some fields we researched were lithium mining methods (both current state of the art and novel), community impacts of lithium mining, and where lithium-substitutes could be readily implemented.
