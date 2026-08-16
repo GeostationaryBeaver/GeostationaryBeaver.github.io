@@ -46,4 +46,4 @@ Liz, thank you for reading this far !! I miss you and I love you :) <3
 [^4]: The Big Berg is especially atrocious about this. I saw this man's heart break in real time when he went from defending why his interpretation of the trig in the first fluids quiz we took was correct to making bs excuses about his general weakness in trig. 
 [^5]: Shoutout to the time I asked Will why he did X step on a thermo pset and he basically just told me "bro I can't justify this intuitively, just use the formula." Keep in mind MIT admin glazes this institution for producing the exact OPPOSITE of this type of thinking.
 [^6]: lmao when I was a kid I used to think that if I had a * b = 5a, no matter what. This was resolved by the end of 1st grade I swear. Now I just confuse multiplication and addition :+1:
-[7^]: His last name is French and is pronounced "Dou-ving-yoh". but I have no idea how to arrange the potpurri of vowels that French demands at the end of every word.
+[^7]: His last name is French and is pronounced "Dou-ving-yoh". but I have no idea how to arrange the potpurri of vowels that French demands at the end of every word.
