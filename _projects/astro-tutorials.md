@@ -53,4 +53,4 @@ It should go without saying, but for the revamped version of my simulations/plot
   </tr>
 </table>
 
-Early in this project, I will be leaning on AI tools more to generate code snippets for me to study and explain, but I will write my own analyses and **never** push AI-generated explanations. It doesn't help me, or anyone else, learn if the available references are peppered with hallucinated references and tools. Furthermore, unless I cite it explicitly in the AI column, the presented work can be assuemd as my own.
+Early in this project, I will be leaning on AI tools more to generate code snippets for me to study and explain, but I will write my own analyses and **never** push AI-generated explanations. It doesn't help me, or anyone else, learn if the available references are peppered with hallucinated references and tools. Furthermore, unless I cite it explicitly in the AI column, the presented work can be assumed as my own.
